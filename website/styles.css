@@ -45,10 +45,7 @@ h2 {
 #header ul li a:visited{
     color:aqua;
 }
-#main {
-    background-color:white;
-    
-}
+
 #main p {
     text-align: left;
     margin-right: 30px;
@@ -62,23 +59,12 @@ h2 {
     border-width: 4px;
     border-color: blueviolet;
     margin-left: 30px;
-    border-radius: 65px;
-}
-#footer{
-
+    border-radius: 50px;
 }
 
-#contact-page form#contact-form {
-    margin-bottom: 20px;
-    height: 50px;
-    width: 40px;
-    font-size: 20px;
-    border-radius: 10px;
-    border-style: solid;
-    border-width: 1px;
-    border-color: purple;
-    padding-left: 10px;
-
+body#contact-page form#contact-form {
+    text-align: left;
+    margin-left: 100px;
 }
 
 
@@ -87,5 +73,3 @@ body#contact-page form#contact-form #submit {
     width: 100px;
     
 }
- 
-
