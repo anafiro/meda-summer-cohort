@@ -5,7 +5,7 @@ h2 {
 #container {
     width: 600px;
     border-style: solid;
-    border-width: 5px;
+    border-width: 8px;
     margin-left: auto;
     margin-right: auto;
     text-align: center;
@@ -22,15 +22,7 @@ h2 {
     padding-top: 40px;
     padding-bottom: 40px;
     color: snow;
-}#header ul {
-    color: white;
-    text-align: center;
-    padding-left: 0;
-    margin-bottom: 0;
-    padding-bottom: 20px;
-    
 }
-
 #header ul li{
     background-color: darkgray;
     display: inline-block;
@@ -53,10 +45,7 @@ h2 {
 #header ul li a:visited{
     color:aqua;
 }
-#main {
-    background-color:white;
-    
-}
+
 #main p {
     text-align: left;
     margin-right: 30px;
@@ -70,28 +59,12 @@ h2 {
     border-width: 4px;
     border-color: blueviolet;
     margin-left: 30px;
-    border-radius: 65px;
-}
-#footer{
-
+    border-radius: 50px;
 }
 
 body#contact-page form#contact-form {
     text-align: left;
     margin-left: 100px;
-}
-
-#contact-page form#contact-form input{
-    margin-bottom: 20px;
-    height: 45px;
-    width: 75%;
-    font-size: 20px;
-    border-radius: 10px;
-    border-style: solid;
-    border-width: 3px;
-    border-color: purple;
-    padding-left: 10px;
-
 }
 
 
@@ -100,9 +73,3 @@ body#contact-page form#contact-form #submit {
     width: 100px;
     
 }
-body#contact-page form#contact-form #reset {
-    font-size: 30px;
-    width: 75px;
-    
-}
-
