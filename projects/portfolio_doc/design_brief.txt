@@ -1,0 +1,35 @@
+Web pages:
+
+HOME PAGE (PORTIFILOIO)
+1) About me 
+A LITTLE BIT ABOUT ME!
+First paragraph: 
+I am Anahita Firoozi. Anahita is my full name. As far as I remember, most  of people call me, Ana. Therefore, Please feel free to call me, Ana. I am from Persia.  I graduated from college and my major in college was science. I worked about 10 years ( The  link--- Please see my resume to find out more about me)  before coming to the USA.  I speak Farsi. I write Farsi from right to left. Since Middle school, I have been always interested in learning a foreign language, especially English. So, you probably can guess what is one of my hobbies by now. 
+
+Second paragraph: 
+My first hobby is learning a foreign language. I mostly enjoy learning English as my second language because it provides a broader access to education and information. These days, most of information are in English.
+The second hobby that I really enjoy is traveling. The main reason is that it gives a chance to get to know people from different cultures and learn different things from them.
+
+2) Contact me 
+Basically is a form to get people’s contact information.
+
+An example of Portfolio I found online :
+Floatleft.com/portfolio/
+
+Likes: The thing that I liked about this individual portfolio is that he has like twitter icons and other icons that it is linked to the, for example twitter webpage.  It is has a header and footer sections that are recognizable and has his logo and menu bar.
+
+Dislikes: The thing that I have been really confused about is by looking at his home page I can not tell exactly what is about and if it belongs to an individual or not. The main includes I guess bunch of other portfolios from other individuals!!  
+
+Colors for the followings:
+Body text color: Blue
+Header text: White 
+Link text : purple  visited link text: Aqua  
+Background color : white
+Header/footer  Background color: Palevioletred
+Menu bar color : Dark-gray
+
+
+
+
+
+
