@@ -1,32 +1,56 @@
 Web pages:
 
 HOME PAGE (PORTIFILOIO)
-1) About me 
-A LITTLE BIT ABOUT ME!
-First paragraph: 
-I am Anahita Firoozi. Anahita is my full name. As far as I remember, most  of people call me, Ana. Therefore, Please feel free to call me, Ana. I am from Persia.  I graduated from college and my major in college was science. I worked about 10 years ( The  link--- Please see my resume to find out more about me)  before coming to the USA.  I speak Farsi. I write Farsi from right to left. Since Middle school, I have been always interested in learning a foreign language, especially English. So, you probably can guess what is one of my hobbies by now. 
 
-Second paragraph: 
-My first hobby is learning a foreign language. I mostly enjoy learning English as my second language because it provides a broader access to education and information. These days, most of information are in English.
-The second hobby that I really enjoy is traveling. The main reason is that it gives a chance to get to know people from different cultures and learn different things from them.
+Welcome to my website! I create and design websites.
+
+1) About me 
+    A LITTLE BIT ABOUT ME!
+    First paragraph: 
+    My name is Anahita Firoozi. Anahita is my full name. But, as far as I remember, most  of people call me, Ana.I am from Persia. I am currently sudent at MEDA learning web programming. Prior to this, I graduated from college and my major in college was science. I worked about 10 years( The link--- Please see my resume to find out more about me)  before coming to the USA. I speak Farsi and write Farsi from right to left. Since Middle school, I have been always interested in learning a foreign language. So, you probably can guess what one of my hobbies is by now. 
+
+    Second paragraph: 
+    My first hobby is learning a foreign language. I mostly enjoy learning English as my second language because it provides a broader access to education and information. These days, most of information are in English.
+    The second hobby that I really enjoy is traveling. The main reason for this is that it gives me a chance to get to know people from different countries and cultures Therefore, I learn new and different things from them.
 
 2) Contact me 
-Basically is a form to get people’s contact information.
+   Basically is a form to get people’s contact information.
 
-An example of Portfolio I found online :
-Floatleft.com/portfolio/
+Three examples of Portfolio I found online :
+   1) Floatleft.com/portfolio/
 
-Likes: The thing that I liked about this individual portfolio is that he has like twitter icons and other icons that it is linked to the, for example twitter webpage.  It is has a header and footer sections that are recognizable and has his logo and menu bar.
+        Likes: The thing that I liked about this individual portfolio is that he has like twitter icons and other icons that it is linked to the, for example twitter webpage.  It is has a header and footer sections that are recognizable and has his logo and menu bar.
 
-Dislikes: The thing that I have been really confused about is by looking at his home page I can not tell exactly what is about and if it belongs to an individual or not. The main includes I guess bunch of other portfolios from other individuals!!  
+        Dislikes: The thing that I have been really confused about is by looking at his home page I can not tell exactly what is about and if it belongs to an individual or not. The main includes I guess bunch of other portfolios from other individuals!!  
+
+   2) workdiary.de
+   
+        Likes: The most intersting thing about this website which is created by a german individual is when cilck on the middle, it takes to a page that a small window opens
+        asking to translate the page which is in german to English. That is most useful and apealing featureto me who do not understand german and curious to know about this website
+        Another thing is the first page shows a vistor/user that it belongs to an individual beause his full name is up in the header and then he talks about himself in afew sentences in middle.
+        The last I like about this website is that this page is different. The mouse shape on the screen looks like a dot and it is different. Additionally, things are moving when you hover over them. 
+  
+        Dislike: The first page looks a bit confusing since you don't know where click and go to find out the information. So I am in a rush for to some certain and important infomation, I do not spend my time on this website. It takes time and patience to figure this website out. These days
+        people do not have enough patience and curiousity to figure things out. they like to find things really quicke. 
+
+   3) https://weareadaptable.com
+   
+       Likes: The video clip that is playing at the backgorund makes me interested to stay more on this  website. The images and formats that is used shows to some extent
+       that they are proffessinals in their field and makes me believe that they know a lot about the field that they are working in. They put lots of work mostly on their  website design and looks.
+
+       Dislike: They put too many links on their footer which makes me consfused rather than acually help me find things that I need. It looks compliated to me. I like simple,
+       less crowded, and straight forward websites. so I like to find things/information in a short time. The other thing I am puzzled about is that they have two similar contact forms; one on the "what we do" page and the other one on the conact page. It is 
+       confusing as to which one to fill out somethings since people that are in rush they do not enough time to compare these two forms.
+ 
+
 
 Colors for the followings:
-Body text color: Blue
-Header text: White 
-Link text : purple  visited link text: Aqua  
-Background color : white
-Header/footer  Background color: Palevioletred
-Menu bar color : Dark-gray
+Body text color: Blue #0000ff
+Header text: White  #ffffff
+Link text : purple  #8000ff            visited link text: Aqua  #00ffff
+Background color : white  #ffffff
+Header and footer  Background color: #fff00ff
+Menu bar color :gray #867979
 
 
 
