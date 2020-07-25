@@ -53,9 +53,12 @@ h2 {
 #header ul li a:visited{
     color:aqua;
 }
-#main {
-    background-color:white;
-    
+#header ul li a:link{
+    color:purple;
+    text-decoration:none;
+}
+#header ul li a:visited{
+    color:aqua;
 }
 #main p {
     text-align: left;
