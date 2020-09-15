@@ -1,0 +1,41 @@
+body{
+    background-color: violet;
+}
+
+.container {
+    width: 700px; 
+    margin-left: auto;
+    margin-right:auto;
+    text-align: center;
+    font-family: "Arial";
+    border:solid 10px;
+    border-color: rgb(85, 19, 133);
+
+}
+
+.container input {
+    font-size:30px;
+    margin:10px 5%;
+    width:90%;
+    text-align:center;
+    font-weight:bold;
+   
+}
+
+.container button{
+    background-color:rgb(104, 11, 104);
+    color: #ffffff;
+    font-size:25px;
+    margin:15px 35px;
+    border:none;
+}
+.container p{
+    font-size: 25px;
+    font-weight:bold;
+    margin:25px;
+    color: black;
+    text-align:center;
+}
+.container label{
+    font-size: 25px;
+}
