@@ -1,26 +1,30 @@
 function bmi(){
     // recieve all inputs from users
     // The Number() coverts the object arguments to a number which represents the object's value
-    var weight=Number(document.getElementById("weight").value);
-    var height=Number(document.getElementById("height").value);
+    var feet =document.querySelector(".feet").value;
+    var inch=document.querySelector(".inch").value;
+    var metre= feet+"."+inch;
+    let height= metre / 3.2808;
+    var weigh=document.querySelector(".weight").value;
     //The Math.pow() returns the base to exponent power
-    var result = weight/height*height;
+    var bmi= weight/Math.pow(height,2);
     // Display the result of caculation
-    document.getElementById("result").innerHTML= weight/(height*height)
 
-    if (result <18.5){
+
+    if (bmi<18.5){
     //The toFixed() method formats a number using fixed-point notation.
-    document.getElementById("type").value = "Uderweight";
+         document.querySelector("p").innerHTML = "Your BMI is "+ (Math.round(bmi*100/100).toFixed(2))+"<br>"+"You are Uderweight";
 
-    } else if (result>=18.5 && result<=25){
-    document.getElementById("type").value = "Normal";
+    } else if (bmi>=18.5 && bmi<=25){
+        document.querySelector("p").innerHTML = "Your BMI is "+ (Math.round(bmi*100/100).toFixed(2))+"<br>"+"You are Normal";  
 
-    } else if (result>=25 && result<=30){
-    document.getElementById("type").value = "Obese";
+    } else if (bmi>=25 && bmi<=30){
+        document.querySelector("p").innerHTML = "Your BMI is "+ (Math.round(bmi*100/100).toFixed(2))+"<br>"+"You are Normal";  
 
-    } else if  (result>30){
-    document.getElementById("type").value = "Overweight";
-}
-}
-
+    } else {
+        document.querySelector("p").innerHTML = "Your BMI is "+ (Math.round(bmi*100/100).toFixed(2))+"<br>"+"You are Obese";  
     
+}
+}
+// Here is the formula to activate the button  
+document.querySelector(".btn").addEventListener("click",bmi);
