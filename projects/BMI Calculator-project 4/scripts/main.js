@@ -8,17 +8,20 @@ function bmi(){
     // Display the result of caculation
     document.getElementById("bmi").innerHTML=Math.round(bmi*100/100);
 
-    if (bmi<18.5)
+    if (bmi<18.5){}
     //The toFixed() method formats a number using fixed-point notation.
     document.getElementById("p").value = "Uderweight: Your BMI is:" + Math.round(bmi*100/100).toFixed(2);
-    if (bmi>=18.5 && bmi<=25)
+
+    } elif (bmi>=18.5 && bmi<=25){
     document.getElementById("p").value = "Normal:Your BMI is:" + Math.round(bmi*100/100).toFixed(2);
-    if (bmi>=25 && bmi<=30)
+
+    } elif (bmi>=25 && bmi<=30){
     document.getElementById("p").value = "Obese:Your BMI is:" + Math.round(bmi*100/100).toFixed(2);
-    if (bmi>30)
+
+    } elif  (bmi>30){
     document.getElementById("p").value = "Overweight:Your BMI is:" + Math.round(bmi*100/100).toFixed(2);
-
-
+}
 }
 // To activate the button we should use EventListenr function
-document.querySelector(".button").addEventListener("click",bmi);
+document.querySelector(".btn").addEventListener("click",bmi);
+    
